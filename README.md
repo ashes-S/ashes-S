@@ -2,7 +2,7 @@
 - I’m interested in programming.
 - I’m currently learning Java.
 - I’m looking to work on Website Development Projects.
-- Mail me on: shivamopm00@gmail.com
+- Mail me at: shivamopm00@gmail.com
 
 <!---
 ashes-S/ashes-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
