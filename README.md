@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivam.
 - I’m interested in programming.
-- I’m currently learning Java.
+- I’m currently learning backend.
 - I’m looking to work on Website Development Projects.
 - Mail me at: shivamopm00@gmail.com
 
